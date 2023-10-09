@@ -1,0 +1,9 @@
+﻿{
+  "Url": "https://tfl.gov.uk/",
+  "ValidFromLocation": "Warwick Parkway Rail Station",
+  "ValidToLocation": "Bristol Parkway Rail Station",
+  "InValidFromLocation": "ee4",
+  "InValidToLocation": "ee4",
+  "MultipleValidFromLocation": "Liverpool Street",
+  "MultipleValidToLocation": "Whitechapel Stn  / Royal London Hosp"
+}
